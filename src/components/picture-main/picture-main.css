@@ -1,0 +1,86 @@
+.picture-main {
+	height: auto;
+	padding-bottom: 40px;
+}
+
+.picture-main-title {
+	margin-top: 46px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.picture-main-title-author {
+	display: flex;
+	align-content: center;
+}
+.picture-main-title-author img {
+	width: 56px;
+	height: 56px;
+	border-radius: 8px;
+}
+
+.picture-main-title-author-name {
+	margin-left: 10px;
+}
+
+.picture-main-title-author-name-first-last {
+	font-size: 30px;
+	line-height: 35.8px;
+}
+
+.picture-main-title-author-name-insta {
+	font-size: 18px;
+	line-height: 21px;
+}
+
+.picture-main-title-btn {
+	display: flex;
+}
+
+.picture-main-title-btn-favorite {
+}
+
+.picture-main-title-btn-download {
+	margin-left: 20px;
+}
+
+.picture-main-photo {
+	margin-top: 44px;
+	width: 1320;
+}
+
+.picture-main-photo img {
+	width: 100%;
+}
+
+.picture-main-tags {
+	margin-top: 44px;
+	font-size: 24px;
+	line-height: 29px;
+	font-weight: 500;
+	text-align: center;
+}
+
+.picture-main-tag {
+	width: 800px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.picture-main-tag ul {
+	list-style: none;
+	dipslay: flex !important;
+	justify-content: space-around;
+}
+
+.picture-main-tag ul div {
+	margin: 0 10px;
+	padding: 5px 15px;
+	background-color: #ffffff;
+	color: #828282;
+	border-radius: 4px;
+	font-size: 18px;
+	line-height: 21px;
+	font-weight: 300;
+}

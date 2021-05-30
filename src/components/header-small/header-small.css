@@ -1,0 +1,40 @@
+.header-small {
+	height: 80px;
+	background-color: black;
+}
+
+.header-small-wrapper {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 26px;
+}
+
+.header-small-logo {
+	display: flex;
+	align-items: center;
+}
+
+.header-small-logo span {
+	font-size: 24px;
+	margin-left: 18px;
+}
+
+.header-small-favorite {
+	display: flex;
+	align-items: center;
+}
+
+.header-small-favorite img {
+	margin-left: 40px;
+}
+
+.header-small-favorite span {
+	font-size: 20px;
+	line-height: 24px;
+	margin-left: 10px;
+}
+
+.header-small-favorite input {
+	color: black;
+	outline: none;
+}

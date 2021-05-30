@@ -1,0 +1,12 @@
+.btn-view {
+	height: 150px;
+	text-align: center;
+}
+
+.btn-view img {
+	margin: 70px 10px;
+}
+
+.btn-view img:hover {
+	cursor: pointer;
+}

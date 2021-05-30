@@ -1,0 +1,33 @@
+a {
+	text-decoration: none;
+}
+
+.show {
+	display: block !important;
+}
+
+.no-show {
+	display: none !important;
+}
+
+input {
+	outline: none;
+}
+
+@media (max-width: 377px) {
+	.header-search input {
+		font-size: 20px;
+	}
+
+	.header-title-favorite span {
+		display: none;
+	}
+
+	.header-nav {
+		display: none;
+	}
+
+	.header-title-logo span {
+		display: none;
+	}
+}

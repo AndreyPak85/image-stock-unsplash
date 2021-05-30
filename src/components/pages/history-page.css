@@ -1,0 +1,6 @@
+[data-list] {
+	color: white;
+	background-color: black;
+	text-transform: capitalize;
+	margin: 10px auto;
+}
