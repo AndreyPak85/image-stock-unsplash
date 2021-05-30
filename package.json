@@ -2,7 +2,6 @@
   "name": "image-stock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andreypak85.github.io/image-stock",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
